@@ -1,0 +1,12 @@
+.bodySection {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .bodySection h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333;
+  }

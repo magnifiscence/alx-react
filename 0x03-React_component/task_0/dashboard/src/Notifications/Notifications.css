@@ -1,0 +1,22 @@
+/* Notifications.css */
+.menuItem {
+    text-align: right;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  .Notifications {
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .Notifications button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
