@@ -1,0 +1,19 @@
+.App-body {
+    min-height: 85vh;
+    padding: 20px;
+    font-size: calc(10px + 1vmin);
+  }
+  
+  .App-body form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .App-body label {
+    cursor: pointer;
+  }
+  
+  .App-body button {
+    width: 100px;
+  }

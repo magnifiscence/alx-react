@@ -1,0 +1,25 @@
+{
+  "name": "task_0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@babel/core": "^7.26.8",
+    "@babel/plugin-transform-modules-commonjs": "^7.26.3",
+    "@babel/preset-env": "^7.26.8",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
